@@ -30,3 +30,5 @@ display(df)
 df.plot(x='date', y='nav')
 plt.title(mutual_fund)
 plt.show()
+
+print(df['nav'][0])
