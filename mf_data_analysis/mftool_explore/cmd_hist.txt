@@ -1,0 +1,19 @@
+  983  which python
+  984  which python3
+  985  pip freeze > requirements.txt
+  986  cat requirements.txt
+  987  cp requirements.txt ~/mydev/GitHub/finance/mf_data_analysis/mftool_explore/
+  988  cd ~/mydev/GitHub/finance/mf_data_analysis/mftool_explore
+  989  ls
+  990  cat requirements.txt
+  991  deactivate
+  992  ls
+  993  source venv/bin/activate
+  994  which python3
+  995  pip install -r requirements.txt
+  996  pip list
+  997  pip check
+  998  history
+
+python3 src/demo_mf.py
+python3 src/demo.py
